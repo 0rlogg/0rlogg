@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/axeofgrimnir" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/124/124021.svg?token=exp=1619653277~hmac=29b13fa795650bb740b0c29c4635365f" alt="axeofgrimnir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daniel miranda barcelona" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619653246~hmac=42ef2eae9a153eaab4b7b2ac7a7619e8" alt="daniel miranda barcelona" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-miranda-barcelona/" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619653246~hmac=42ef2eae9a153eaab4b7b2ac7a7619e8" alt="daniel miranda barcelona" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0rlogg&show_icons=true&locale=en&layout=compact" alt="0rlogg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0rlogg&show_icons=true&locale=en" alt="0rlogg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0rlogg&" alt="0rlogg" /></p>
