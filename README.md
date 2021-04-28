@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/axeofgrimnir" target="blank"><img align="center" src="https://i.pinimg.com/originals/ca/39/29/ca39298bd0a3ff456041734e1f7edd13.jpg" alt="axeofgrimnir" height="30" width="40" /></a>
+<a href="https://twitter.com/axeofgrimnir" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/1384/1384017.svg?token=exp=1619653272~hmac=cda86935c7581eb771403d89535eabae" alt="axeofgrimnir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel miranda barcelona" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619653246~hmac=42ef2eae9a153eaab4b7b2ac7a7619e8" alt="daniel miranda barcelona" height="30" width="40" /></a>
 </p>
 
