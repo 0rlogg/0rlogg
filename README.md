@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **SolarSystemWiki**
 
-- 🌱 I’m currently learning **Java & Python;**
+- 🌱 I’m currently learning **Java & Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0rlogg?tab=projects](https://github.com/0rlogg?tab=projects)
 
-- 📫 How to reach me **danimb1506@gmail.com;**
+- 📫 How to reach me **danimb1506@gmail.com**
 
-- ⚡ Fun fact **I love japanese culture & LARP;**
+- ⚡ Fun fact **I love japanese culture & LARP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
