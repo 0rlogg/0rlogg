@@ -6,10 +6,9 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/S
 
 ## 💻 **Habilidades Técnicas**
 ### Lenguajes de Programación:
-- **PL/SQL** (Sí, lo amo tanto que lo considero clave en mi carrera)
+- **PL/SQL** (Especializado en la optimización y diseño de consultas complejas para sistemas críticos)
 - **Python** (Automatización, scripting y más)
 - **JavaScript** (Vue.js, Next.js, Node.js)
-- **Java** (para proyectos más robustos)
   
 ### Bases de Datos:
 - **Oracle**
@@ -17,10 +16,13 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/S
 - **PostgreSQL**
   
 ### Herramientas y Tecnologías:
-- **Metasploit, BurpSuite, Hydra** (Ciberseguridad)
-- **Git, Docker, Apache, Nginx** (Herramientas de desarrollo y despliegue)
-- **Netlify, Vercel** (Deployments rápidos)
-
+- **Metasploit, BurpSuite, Hydra, OWASP ZAP** (Ciberseguridad y pruebas de penetración)
+- **Git, Docker, Apache, Nginx** (Desarrollo, control de versiones y despliegue de aplicaciones)
+- **Netlify, Vercel** (Deployments rápidos y eficientes)
+- **Nmap, Wireshark, John the Ripper, Hashcat** (Seguridad y auditoría de sistemas)
+- **Visual Studio Code, IntelliJ IDEA, Eclipse** (Entornos de desarrollo integrados)
+- **Sistemas operativos:** Windows, Linux (Kali Linux, Parrot OS)
+ 
 ## 🌟 **Proyectos Destacados**
 ### [Portafolio Web](https://danielmb.es)  
 Este es mi portafolio personal, donde muestro algunos de los proyectos que he desarrollado y las tecnologías con las que trabajo.  
