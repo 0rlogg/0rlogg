@@ -29,9 +29,6 @@ Este es mi portafolio personal, donde muestro algunos de los proyectos que he de
 ### [Writeups de Ciberseguridad](https://www.excal1bur.es)  
 Una colección de artículos técnicos donde analizo vulnerabilidades, retos de seguridad, y soluciones que he encontrado a lo largo de mi formación en ciberseguridad.
 
-### [Repositorio de GitHub](https://github.com/0rlogg)  
-Aquí encontrarás varios de mis proyectos de **automatización** y **seguridad**. Desde scripts para pruebas de penetración hasta herramientas para optimizar procesos.
-
 ## 📫 **Contáctame**
 - **Portafolio:** [danielmb.es](https://danielmb.es)
 - **LinkedIn:** [Daniel Miranda](https://www.linkedin.com/in/danielmirandabarcelona)
