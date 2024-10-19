@@ -32,5 +32,5 @@ Una colección de artículos técnicos donde analizo vulnerabilidades, retos de 
 
 ## 📫 **Contáctame**
 - **Portafolio:** [danielmb.es](https://danielmb.es)
-- **LinkedIn:** [Daniel Miranda](https://www.linkedin.com/in/danielmirandabarcelona)
+- **LinkedIn:** [Daniel Miranda](https://www.linkedin.com/in/daniel-miranda-barcelona/)
 - **Correo Electrónico:** daniel.mirandabarcelona@gmail.com
