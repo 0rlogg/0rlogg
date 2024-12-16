@@ -21,7 +21,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/S
 - **Netlify, Vercel** (Deployments rápidos y eficientes)
 - **Nmap, Wireshark, John the Ripper, Hashcat** (Seguridad y auditoría de sistemas)
 - **Visual Studio Code, IntelliJ IDEA, Eclipse** (Entornos de desarrollo integrados)
-- **Sistemas operativos:** Windows, Linux (Kali Linux, Parrot OS)
+- **Sistemas operativos:** Windows, Linux (Arch Linux, Kali Linux, Parrot OS)
  
 ## 🌟 **Proyectos Destacados**
 ### [Portafolio Web y Writeups de Ciberseguridad](https://danielmb.es)  
