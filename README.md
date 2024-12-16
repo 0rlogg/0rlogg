@@ -24,11 +24,8 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/S
 - **Sistemas operativos:** Windows, Linux (Kali Linux, Parrot OS)
  
 ## 🌟 **Proyectos Destacados**
-### [Portafolio Web](https://danielmb.es)  
-Este es mi portafolio personal, donde muestro algunos de los proyectos que he desarrollado y las tecnologías con las que trabajo.  
-
-### [Writeups de Ciberseguridad](https://www.excal1bur.es)  
-Una colección de artículos técnicos donde analizo vulnerabilidades, retos de seguridad, y soluciones que he encontrado a lo largo de mi formación en ciberseguridad.
+### [Portafolio Web y Writeups de Ciberseguridad](https://danielmb.es)  
+Este es mi portafolio personal, donde muestro algunos de los proyectos que he desarrollado, las tecnologías con las que trabajo y una colección de artículos técnicos donde analizo vulnerabilidades, retos de seguridad, y soluciones que he encontrado a lo largo de mi formación en ciberseguridad.
 
 ## 📫 **Contáctame**
 - **Portafolio:** [danielmb.es](https://danielmb.es)
