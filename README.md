@@ -31,3 +31,6 @@ Este es mi portafolio personal, donde muestro algunos de los proyectos que he de
 - **Portafolio:** [danielmb.es](https://danielmb.es)
 - **LinkedIn:** [Daniel Miranda](https://www.linkedin.com/in/daniel-miranda-barcelona/)
 - **Correo Electrónico:** daniel.mirandabarcelona@gmail.com
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0rlogg)](https://github.com/0rlogg/github-readme-stats)
