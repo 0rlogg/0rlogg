@@ -23,6 +23,9 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/S
 - **Visual Studio Code, IntelliJ IDEA, Eclipse** (Entornos de desarrollo integrados)
 - **Sistemas operativos:** Windows, Linux (Arch Linux, Kali Linux, Parrot OS)
  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0rlogg&theme=tokyonight)
+
+
 ## 🌟 **Proyectos Destacados**
 ### [Portafolio Web y Writeups de Ciberseguridad](https://danielmb.es)  
 Este es mi portafolio personal, donde muestro algunos de los proyectos que he desarrollado, las tecnologías con las que trabajo y una colección de artículos técnicos donde analizo vulnerabilidades, retos de seguridad, y soluciones que he encontrado a lo largo de mi formación en ciberseguridad.
@@ -33,4 +36,3 @@ Este es mi portafolio personal, donde muestro algunos de los proyectos que he de
 - **Correo Electrónico:** daniel.mirandabarcelona@gmail.com
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0rlogg)](https://github.com/0rlogg/github-readme-stats)
