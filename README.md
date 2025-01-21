@@ -1,8 +1,8 @@
 
 # ¡Hola, soy Daniel! 👋   
-**Desarrollador Backend** y **Apasionado por la Ciberseguridad**
+**Desarrollador** y **Pentester**
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/SQL** y tecnologías backend, con una pasión creciente por la **ciberseguridad** y el **pentesting**.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador con experiencia en **PL/SQL** y tecnologías backend, con interes por la **ciberseguridad** y el **pentesting**.
 
 ## 💻 **Habilidades Técnicas**
 ### Lenguajes de Programación:
